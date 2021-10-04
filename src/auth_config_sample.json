@@ -1,0 +1,5 @@
+{
+  "domain": "https://{Auth0_domain}",
+  "client_id": "client id",
+  "connection": "connection name"
+}
